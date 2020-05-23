@@ -2,7 +2,6 @@
 Criação de um Ecommerce de venda de Dados de RPG e jogos de Tabuleiro.
 
 1 Página Inicial
-
 1.1 Itens
 
 2 Página do Item
